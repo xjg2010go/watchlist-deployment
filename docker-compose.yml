@@ -1,4 +1,4 @@
-version: 3.3
+version: "3.3"
 services:
     movies-loader:
       image:  741767866316.dkr.ecr.us-east-1.amazonaws.com/movies-loader:develop
