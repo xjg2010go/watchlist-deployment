@@ -35,4 +35,5 @@ services:
       environment:
         - MONGODB_USERNAME=root
         - MONGODB_PASSWORD=root
+        - MONGODB_ROOT_PASSWORD=root
         - MONGODB_DATABASE=watchlist
