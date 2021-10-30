@@ -1,4 +1,4 @@
-def swarmManager = '10.1.0.252'
+def swarmManager = '10.1.0.157'
 def region = 'us-east-1'
 
 node('master'){
